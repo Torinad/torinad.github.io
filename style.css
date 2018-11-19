@@ -1,0 +1,28 @@
+body{
+	padding: 0;
+	margin: 0;
+	background: #B5D3F2;
+}
+header{
+	position: relative;
+	width: 100%;
+}
+header h1 {
+	position: absolute;
+	top: 10px;
+	width: 100%;
+	text-align: center;
+}
+
+nav{
+	float:left;
+}
+
+div{
+	padding-left: 10em;
+}
+
+
+
+
+
